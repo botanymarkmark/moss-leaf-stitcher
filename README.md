@@ -1,4 +1,4 @@
-# moss-leaf-stitch
+# moss-leaf-stitcher
 
 > 苔藓叶片显微照片拼接工具 · Stitch two partial micrographs of a moss leaf into one seamless image.
 
